@@ -1,12 +1,12 @@
 #include <iostream>
-#include "RedBlackTree.h"
+#include "RedBlackYone.h"
 
 using namespace std;
 
 int main()
 {
 
-	RBTree tree = RBTree();
+	RBYone tree = RBYone();
 
 	tree.insert(5);
 	tree.insert(4);
